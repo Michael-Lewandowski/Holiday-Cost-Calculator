@@ -1,4 +1,4 @@
-# Holiday-Cost-Calculator
+# holiday_cost_calculator
 1. This program calculates user's total holiday cost.
 2. Calculate and return the hotel cost based on number of nights
 3. Calculate and return the plane cost based on the city
